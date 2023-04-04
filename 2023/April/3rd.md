@@ -44,4 +44,4 @@ cat: /etc/sysconfig/network-scripts/ifcfg-enp0s3: No such file or directory
 # 【学習時間】
 ・本日:2時間45分<br>
 ・月合計:11時11間分<br>
-・累計:169時間214分
+・累計:169時間14分
