@@ -4,11 +4,11 @@
 ・Linucの問題集(Lv1-101) 最強WEB問題集(107/652)<br>
 # 【わかったこと】
 ## ☆Linuxの基礎コマンドを理解する
-・マウントオプション
-・odコマンド
-・makewhatisコマンド
-・USBデバイスクラス
-・shutdownコマンド
+・マウントオプション<br>
+・odコマンド<br>
+・makewhatisコマンド<br>
+・USBデバイスクラス<br>
+・shutdownコマンド<br>
 # 【次やること】
 ## ☆Linuxの基礎コマンドを理解する
 ・Linucの問題集(Lv1-101) 最強WEB問題集(107/652)
