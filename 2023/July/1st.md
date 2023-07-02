@@ -5,7 +5,7 @@
 ・vimtutorで速習Vim<br>
 ・【vim入門】vimtutorはいいぞ<br>
 →上記3つについてインプット完了<br>
-・vimtutorで学習<br>
+・vimtutorで学習-レッスン 1.3: テキスト編集 - 削除-まで<br>
 →継続<br>
 # 【わかったこと】
 ・Vimmerに近づくステップアップのやり方<br>
