@@ -5,8 +5,8 @@
 →セクション5-10 -headerの詳細設定(2)- まで<br>
 # 【わかったこと】
 ・各要素をわかりやすくするためには一旦`background-color`を設定しておくと良い。<br>
-・HTMLファイルで`  <link rel="stylesheet" href="css/reset.css"/>`を`  <link rel="stylesheet" href="css/style.css"/>`よりも前で読み込むことでブラウザによって異なるデフォルトのCSSを打ち消してブラウザ間の表示を揃えることができる。
-・フレックスボックスについて
+・HTMLファイルで`  <link rel="stylesheet" href="css/reset.css"/>`を`  <link rel="stylesheet" href="css/style.css"/>`よりも前で読み込むことでブラウザによって異なるデフォルトのCSSを打ち消してブラウザ間の表示を揃えることができる。<br>
+・フレックスボックスについて<br>
 # 【次やること】
 ## ☆HTML/CSSを学ぶ
 ・「未経験からHTML、CSS をマスターして、WEBデザイナー・エンジニアを目指す　最高の実践コース | Udemy」視聴<br>
