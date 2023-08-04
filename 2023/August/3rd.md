@@ -29,11 +29,11 @@
 ```
 ・MDN(Mozilla Developer Network):ウェブ開発に関する技術情報を公開しているサイト。<br>
 ・HTML文章のインデントと改行は「あり」と「なし」では動作は変わらない。<br>
-・Visual Studio Codeの「Emmet」:コードの入力を補完してくれる機能。<br>
+・VSCodeの「Emmet」:コードの入力を補完してくれる機能。<br>
 例）「！」でtabを押すとHTML文書の基本構文が挿入される等。<br>
 ・VSCodeの拡張機能「render control characters」でRender Control Charactersの設定。<br>
 ・VSCodeの拡張機能「whitespace」でRender Whitespaceの設定。<br>
-・HTMLフォーマッタ:自動でHTMLの構文に即したインデントを付ける等、HTMLを自動整形する機能。<br>
+・VSCodeの拡張機能「HTMLフォーマッタ」:自動でHTMLの構文に即したインデントを付ける等、HTMLを自動整形する機能。<br>
 例）macの場合Shift+option+FでHTMLの構文に即したインデントを付ける。<br>
 # 【次やること】
 ## ☆ブログでのアウトプット
