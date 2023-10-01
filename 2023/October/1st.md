@@ -33,7 +33,7 @@
 ◎Docker CLI:Docker Engineに提供され、`docker run`や`docker build`のような`docker`ではじまるコマンドでDockerに命令をすることができる。<br>
 ※`docker`コマンドは`dockerd`というデーモンに命令を伝え`containerd`というランタイムを操作するが、一般に`dockerd`や`containerd`は隠蔽されていて意識することはない。<br>
 ◎Docker Desktop:WindowsかMacでDockerを使用したいと思ったときにインストールするDocker一式が入ったGUIアプリケーションのこと。Docker CLIではなくGUIでコンテナなどを確認したり停止したりすることができる。Docker DesktopにはDocker EngineやLinuxのカーネルが含まれているため、Linux以外のOSでもDocker Engineを動かすことができるようになる。<br>
-【次やること】
+# 【次やること】
 ## ☆Docker
 ⚫︎dockerで開発環境を構築する<br>
 ・dockerで開発環境を構築するについてブログにまとめる<br>
